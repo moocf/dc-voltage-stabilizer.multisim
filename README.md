@@ -12,3 +12,5 @@ supply and regulates it internally to deliver a fixed output voltage.
 ![](Results/01.%20Circuit.jpg)<br>
 ![](Results/02.%20DC%20Sweep.png)<br>
 ![](Results/03.%20Transient%20Analysis.png)<br>
+
+![](https://ga-beacon.deno.dev/G-G1E8HNDZYY:v51jklKGTLmC3LAZ4rJbIQ/github.com/moocf/dc-voltage-stabilizer.multisim)
